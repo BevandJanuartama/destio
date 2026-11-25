@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "659555291974",
+    "project_id": "destioapp-d30cf",
+    "storage_bucket": "destioapp-d30cf.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:659555291974:android:001978e70132fd7ff50b47",
+        "android_client_info": {
+          "package_name": "com.example.biodata_bumerry"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApeWVxwDlIMWV3mBAAdqkQ7081ZncF_yU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:659555291974:android:3e82d85d73f1591cf50b47",
+        "android_client_info": {
+          "package_name": "com.example.destio"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApeWVxwDlIMWV3mBAAdqkQ7081ZncF_yU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:659555291974:android:60b8fd9d15359586f50b47",
+        "android_client_info": {
+          "package_name": "com.example.destio_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApeWVxwDlIMWV3mBAAdqkQ7081ZncF_yU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
